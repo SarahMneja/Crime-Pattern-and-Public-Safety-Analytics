@@ -94,5 +94,5 @@ The dashboard will help decision-makers detect anomalies, identify high-risk are
 ## Team Members
 - Maryem Ammar
 - Sirine Zaltni
-- Sarah Mnejah
+- Sarah Mneja
 - Rissen Guermazi
